@@ -1,0 +1,8 @@
+SQLAlchemy
+fastapi[standard]
+uvicorn[standard]
+pydantic
+asyncpg
+dotenv
+argon2-cffi
+Authlib
